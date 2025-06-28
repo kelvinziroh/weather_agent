@@ -1,2 +1,4 @@
 # weather_agent
-Data pipeline from public weather data API to PostgreSQL on docker using airflow.
+
+## Introduction
+In this project, we create a data pipeline from [OpenWeatherMap](https://openweathermap.org/)'s public API to postgreSQL containerized on docker using Apache-Airflow.
